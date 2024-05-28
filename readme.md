@@ -16,6 +16,19 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/HowToRiseUp">Howie</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
+## Profile Views:
+
+<table>
+    <tr>
+        <th>Total Count</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/vulebaolong"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&style=for-the-badge&color=brightgreen" /> </a>
+        </td>
+    </tr>
+</table>
+
 ## What I'm Doing:
 
 - 🌱 I’m currently learning: **Full Stack Development**
@@ -33,10 +46,30 @@
     
 </p>
 
-## Languages and Tools:
+## Languages, Tools I Know:
+
+### Front-End
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,react,ts,js,tailwind,bootstrap,python,vite,postman,docker,figma,git,github,html,css" />
+    <img
+        src="https://skillicons.dev/icons?i=ts,react,vue,redux,js,tailwind,bootstrap,sass,css,html"
+    />
+</p>
+
+### Back-End
+
+<p align="left">
+    <img
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase"
+    />
+</p>
+
+### Tool and ...
+
+<p align="left">
+    <img
+        src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,premiere"
+    />
 </p>
 
 ## Top Repositories:
