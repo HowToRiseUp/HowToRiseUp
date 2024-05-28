@@ -1,6 +1,4 @@
-<a href="./asset/ezgif-4-deae21358d.gif">
-    <img src="./asset/ezgif-4-deae21358d.gif" alt="MasterHead" style="border-radius: 15px;">
-</a>
+[![MasterHead](./asset/ezgif-4-deae21358d.gif)](./asset/ezgif-4-deae21358d.gif)
 
 <p align="center">
 <br/>
@@ -12,21 +10,6 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/HowToRiseUp">Howie</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
-
-## Profile Views:
-
-<img align="right" width="300" src="./assets/computer.gif" alt="coding" />
-
-<table>
-    <tr>
-        <th>Total Count</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/HowToRiseUp"> <img src="https://komarev.com/ghpvc/?username=HowToRiseUp&style=for-the-badge&color=blue" /> </a>
-        </td>
-    </tr>
-</table>
 
 ## What I'm Doing:
 
