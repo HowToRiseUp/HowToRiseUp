@@ -1,4 +1,4 @@
-[![MasterHead](./asset/ezgif-4-3856dd9cba.gif)](https://github.com/HowToRiseUp)
+[![MasterHead](./asset/ezgif-4-3856dd9cba.gif)](./asset/ezgif-4-3856dd9cba.gif)
 
 <p align="center">
 <br/>
