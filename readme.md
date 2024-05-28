@@ -1,4 +1,4 @@
-[![MasterHead](./asset/ezgif-4-deae21358d.gif)](./asset/ezgif-4-deae21358d.gif)
+[[MasterHead](./asset/ezgif-4-deae21358d.gif)](./asset/ezgif-4-deae21358d.gif)
 
 <p align="center">
 <br/>
