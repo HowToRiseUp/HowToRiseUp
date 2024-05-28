@@ -1,4 +1,6 @@
-[![MasterHead](./asset/ezgif-4-3856dd9cba.gif)](./asset/ezgif-4-3856dd9cba.gif)
+<a href="./asset/ezgif-4-deae21358d.gif">
+    <img src="./asset/ezgif-4-deae21358d.gif" alt="MasterHead" style="border-radius: 15px;">
+</a>
 
 <p align="center">
 <br/>
