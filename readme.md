@@ -52,7 +52,7 @@
 
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=ts,react,vue,redux,js,tailwind,bootstrap,sass,css,html"
+        src="https://skillicons.dev/icons?i=ts,react,redux,js,tailwind,bootstrap,sass,css,html"
     />
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase"
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,docker,firebase"
     />
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,premiere"
+        src="https://skillicons.dev/icons?i=postman,figma,github,git"
     />
 </p>
 
