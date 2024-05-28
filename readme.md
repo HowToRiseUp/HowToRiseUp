@@ -1,6 +1,9 @@
-<div style="text-align: center;">
-    <img src="./asset/ezgif-4-deae21358d.gif" style="border-top-left-radius: 10px; border-bottom-right-radius: 20px;" />
-</div>
+<p align="center">
+    <img
+        align="center"
+        src="./asset/ezgif-4-deae21358d.gif"
+    />
+</p>
 
 <p align="center">
 <br/>
