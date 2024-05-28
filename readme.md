@@ -4,7 +4,7 @@
 <br/>
     <img
         align="center"
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=2+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=1+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
     />
 </p>
 
@@ -28,24 +28,19 @@
 
 ## What I'm Doing:
 
-- 🌱 I’m currently learning: **Back End Development**
+- 🌱 I’m currently learning: **Full Stack Development**
 - 💬 Ask me about: **MERN Stack**
 - 📫 How to reach me: **lenhathao01020@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
-- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1QeuPda5MJTXKU9pv-DXADZGef0y1_poU/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/15zETnUrHkedBM9sPneMxKVTzQT3L5Mjr/view?usp=sharing" target="blank">VI</a>**
+- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1Z_OT_aY9h1cIIxvqSz57_KPIHiF34XeG/view" target="blank">VI</a>**
 
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/HowToRiseUp/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-    </a>
-    <a href="https://www.facebook.com/HowToRiseUp" target="blank">
+    <a href="https://www.facebook.com/shiba.hao.3/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
     </a>
-    <a href="https://www.instagram.com/HowToRiseUp/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-    </a>
+    
 </p>
 
 ## Languages and Tools:
