@@ -1,4 +1,9 @@
-![Example 5](./asset/ezgif-4-deae21358d.gif)
+<p align="center">
+    <img
+        align="center"
+        src="./asset/ezgif-4-deae21358d.gif"
+    />
+</p>
 
 <p align="center">
 <br/>
