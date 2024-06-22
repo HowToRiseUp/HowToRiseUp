@@ -13,7 +13,7 @@
 
 ## Profile Views:
 
-![](https://leetcard.jacoblin.cool/HowToRiseUp?site=cn)
+![](https://leetcard.jacoblin.cool/howtoriseup?site=cn)
 
 ## What I'm Doing:
 
