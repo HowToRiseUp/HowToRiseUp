@@ -23,15 +23,6 @@
 - ⚡ Fun fact: **I think I am funny**
 - 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1Z_OT_aY9h1cIIxvqSz57_KPIHiF34XeG/view" target="blank">VI</a>**
 
-## Connect with me:
-
-<p align="left">
-    <a href="https://www.facebook.com/shiba.hao.3/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-    </a>
-    
-</p>
-
 ## Languages, Tools I Know:
 
 ### Front-End
@@ -64,12 +55,6 @@
     <a href="https://github.com/HowToRiseUp/Crowfunding-App">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HowToRiseUp&repo=Crowfunding-App&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crowfunding App" />
     </a>
-</p>
-
-## Activity On GitHub:
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HowToRiseUp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Most Used Languages:
