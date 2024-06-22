@@ -13,16 +13,7 @@
 
 ## Profile Views:
 
-<table>
-    <tr>
-        <th>Total Count</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/HowToRiseUp"> <img src="https://komarev.com/ghpvc/?username=HowToRiseUp&style=for-the-badge&color=brightgreen" /> </a>
-        </td>
-    </tr>
-</table>
+![](https://leetcard.jacoblin.cool/HowToRiseUp?site=cn)
 
 ## What I'm Doing:
 
@@ -73,27 +64,12 @@
     <a href="https://github.com/HowToRiseUp/Crowfunding-App">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HowToRiseUp&repo=Crowfunding-App&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crowfunding App" />
     </a>
-    <a href="https://github.com/HowToRiseUp/React-Movie">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HowToRiseUp&repo=React-Movie&theme=react&bg_color=1F222E&title_color=42F3F7FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="React Movie" />
-    </a>
-</p>
-
-## My Stats:
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HowToRiseUp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## Activity On GitHub:
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HowToRiseUp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## Profile Trophy:
-
-<p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=HowToRiseUp&theme=tokyonight&no-frame=true&row=1&column=2&rank=-?" alt="Profile Trophy" />
 </p>
 
 ## Most Used Languages:
