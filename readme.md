@@ -4,7 +4,7 @@
 <br/>
     <img
         align="center"
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=1+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=1+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=25&vCenter=true&pause=1000&size=25"
     />
 </p>
 
