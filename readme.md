@@ -13,7 +13,7 @@
 
 ## Profile Views:
 
-![](https://leetcard.jacoblin.cool/howtoriseup?site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HowToRiseUp?theme=dark&font=Poppins)
 
 ## What I'm Doing:
 
