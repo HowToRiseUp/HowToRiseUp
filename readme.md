@@ -1,4 +1,6 @@
-[![MasterHead](./asset/R.gif)](https://github.com/HowToRiseUp)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HowToRiseUp?theme=dark&font=Poppins)
+
 
 <p align="center">
 <br/>
@@ -13,8 +15,6 @@
 
 ## Profile Views:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HowToRiseUp?theme=dark&font=Poppins)
-
 ## What I'm Doing:
 
 - 🌱 I’m currently learning: **Full Stack Development**
@@ -23,31 +23,6 @@
 - ⚡ Fun fact: **I think I am funny**
 - 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1Z_OT_aY9h1cIIxvqSz57_KPIHiF34XeG/view" target="blank">VI</a>**
 
-## Languages, Tools I Know:
-
-### Front-End
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=ts,react,redux,js,tailwind,bootstrap,sass,css,html"
-    />
-</p>
-
-### Back-End
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,docker,firebase"
-    />
-</p>
-
-### Tool and ...
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=postman,figma,github,git"
-    />
-</p>
 
 ## Top Repositories:
 
