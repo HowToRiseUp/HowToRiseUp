@@ -1,7 +1,4 @@
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HowToRiseUp?theme=dark&font=Poppins)
-
-
 <p align="center">
 <br/>
     <img
@@ -14,6 +11,8 @@
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
 ## Profile Views:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HowToRiseUp?theme=dark&font=Poppins)
 
 ## What I'm Doing:
 
